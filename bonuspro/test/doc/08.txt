@@ -1,0 +1,49 @@
+﻿Intelligent Data Analysis
+SUSTech Summer Semester
+Course Material and Useful Links
+Peter Tino
+
+Assignment 📝
+Last updated: 2017/06/30 (Marked with green background)
+
+You can choose any data set(s) from the list bellow, but finding your own dataset to investigate is much more preferable (and you'll be rewarded)! 
+If you decide to go the easier route and use some of the data sets provided, un-tar the relevant file and go to the corresponding folder. 
+The folder contains the data set, as well as additional information about the data. Read the available information, especially description of the features (data dimensions). 
+You will need to clean the data, so that it contains only numerical features (dimensions) and the features are space-separated (not comma-separated.
+
+To make the plots informative, you should come up with a labelling scheme for data points. 
+If the data can be classified into several classes (find out in the data and feature description!), use that information as the basis for your labelling scheme. In that case exclude the class information from the data dimensions. 
+Alternatively, you can make labels out of any dimension, e.g. by quantising it into several intervals. For example, if the data dimension represents age of a person, you can quantise it into 5 labels (classes) [child, teenager, young adult, middle age, old]. 
+Associate the data labels with different markers and use the markers to show what kind of data points get projected to different regions of the visualization plot (computer screen).
+
+Learn as much as you can about the chosen data set using the methods developed in the module - PCA, Clustering and SOM.
+Be creative - Use various data labelling schemes (not just one)!
+Compare PCA with straightforward co-ordinate projections. Does PCA really help you to understand the data more than just looking at plots based on pairs of co-ordinates?
+Compare 2-dimensional topographic maps produced by SOM with PCA obtained with 2 of the leading eigen-directions.
+Illustrate the clusters obtained by clustering (on-line and batch) using SOM and PCA. You can do this by assigning labels to the data (and thus colouring the data projections) according to cluster membership. How many clusters do you need? What groupings do the clusters represent? How do they correspond to the structures identified through your labelling schemes and PCA/SOM?
+Try to combine the techniques. For example, you can first project the data onto dominant eigenvectors to work in the relevant subspace containing most of the data and only then apply clustering or SOM. How do those results compare with clustering/SOM results on the original data (without the PCA step)?
+Report
+In the report describe:
+
+the data (10%)
+how you preprocessed the data (10%)
+What features (coordinates) did you use for labelling the projected points with different markers? What questions on the data you would ask. (20%)
+How did you design the labelling schemes? (10%)
+What interesting aspects of the data did you detect based on the data visualisations/clustering? (25%)
+What interesting aspects of the data did you detect based on eigenvector and eigenvalue analysis of the data covariance matrix in case of PCA analysis, or codebook vector analysis in case of clustering/SOM? Think of your own way of detecting where the topographic map had to contract/expand in the data space (this would reveal the data cluster structure). Furthermore, come up with your own way of detecting if the topographic map has a significant folding/curvature structure in the data space. (25%)
+You should demonstrate that you
+
+understand the data analysis techniques used
+are able to extract useful information about otherwise inconceivable high-dimensional data using linear/non-linear dimensionality-reduction techniques and clustering methods.
+Please Note
+You will be marked solely based on how well you used the techniques presented in the course on your data. If your data cannot be reasonably explained in 2-dimensions, or it does not have a clear cluster structure, that is fine, as long as you can clearly explain why do you think this is the case by proper use/analysis of PCA, SOM and clustering.
+
+
+Before You Start ...
+Before starting to work on the assignment, please carefully study the example I prepared using the boston database. Un-tar the file boston.ex.tar.gz and go to the folder "BOSTON.EX". 
+The subfolder "FIGURES" contains all the relevant figures as eps or gif files. 
+Please consult the "boston.read.me" file in BOSTON.EX.
+
+In the labelling scheme, concentrate on more than one coordinate (dimension), e.g. in the `boston example', consider not just the price feature, but run separate experiments with per capita crime rate in the town, or pupil-teacher ratio in the town instead of the price coordinate).
+
+For examples of nice past reports developed on wine dataset (do not use this data in your report!) using just PCA, please see reports by Christoph Stich and Josephf Preece. Many thanks Chris and Joe!

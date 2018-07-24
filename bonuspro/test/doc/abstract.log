@@ -1,0 +1,29 @@
+﻿document 01:
+中新网北京12月1日电(记者 张曦) 30日晚，高圆圆和赵又廷在京举行答谢宴，诸多明星现身捧场，其中包括张杰(微博)、谢娜(微博)夫妇、何炅(微博)、蔡康永(微博)、徐克、张凯丽、黄轩(微博)等。高圆圆身穿粉色外套，看到大批记者在场露出娇羞神色，赵又廷则戴着鸭舌帽，十分淡定，两人快步走进电梯，未接受媒体采访。记者了解到，出席高圆圆、赵又廷答谢宴的宾客近百人，其中不少都是女方的高中同学。答谢宴位于酒店地下一层，现场安保森严，大批媒体只好在酒店大堂等待。30日中午，有媒体曝光高圆圆和赵又廷现身台北桃园机场的照片，照片中两人小动作不断，尽显恩爱。
+
+document 02:
+在美国起诉中国贪官，不可能适用中国自己的法律。贪官明明是在中国国内贪腐，还能触犯到美国的法律。一般也在美国蹲监狱：美国法律对付中国贪官并不手软，他们可能被判得很重。法律用美国的：被用来修理黑帮的美国联邦法律也能“顺便”对付中国贪官。除了“有组织犯罪”相关法条外，洗钱、伪造签证等贪官可能涉及到的触及美国法律行为都能被提起控诉。
+
+document 03:
+而据纽约时报报道，《马可波罗》第一季 10 集的总投资高达 9000 万美元，这不仅创下了 Netflix 的最高电视剧投资记录，在全球电视剧制作成本的排名中也是数一数二的，仅次于 HBO 原创的《权利的游戏》。除了四处购买电影电视剧的全球版权等海外市场豪赌，Netflix 在影视内容上也有一场豪赌——鸿篇巨制的《马可波罗》。目前，Netflix 正在筹拍中的原创剧有不少，《马可波罗》成功与否可以在一定程度上验证 Netflix 的原创剧战略是否在海外市场是否有效。据BI消息，Netflix 正准备在本月上线其最新的原创剧集《马可波罗》。Netflix 怎么会如此大手笔。
+
+document 04:
+北京还有正宗的法式、美式、意式、俄式餐厅和日本料理、韩国烧烤以及越南、印尼、泰国风味的菜馆。涮羊肉是最受北京人欢迎的冬令美食，其中阳坊涮肉连锁店以价格便宜，味道正宗而倍受青睐。东直门内大街原是北京最富特色的餐饮一条街，大街南北两侧云集了各种风味的餐馆，多为24小时营业。北京风味小吃有600多年历史，包括汉民风味小吃、回民风味小吃和宫廷风味小吃等300多种。北京的各大饭店历来是名厨荟萃，如北京饭店的谭家菜、建国饭店的法式西餐都是别处不易享用到的佳肴。
+
+document 05:
+支持向量机属于一般化线性分类器，也可以被认为是提克洛夫规范化（Tikhonov Regularization）方法的一个特例。通过核函数，可以使得支持向量机对非线性可分的任务进行分类。van der Walt和Barnard将支持向量机和其他分类器进行了比较。支持向量机（英语：Support Vector Machine，常简称为SVM）是一种监督式学习的方法，可广泛地应用于统计分类以及回归分析。一个极好的指南是C.J.C Burges的《模式识别支持向量机指南》。
+
+document 06:
+1）在初始阶段：网页通过链接关系构建起Web图，每个页面设置相同的PageRank值，通过若干轮的计算，会得到每个页面所获得的最终PageRank值。当每个页面都获得了更新后的PageRank值，就完成了一轮PageRank计算。Google不断的重复计算每个页面的PageRank。如果给每个页面一个随机PageRank值（非0），那么经过不断的重复计算，这些页面的PR值会趋向于正常和稳定。最终的R 就是各个页面的 PageRank 值。
+
+document 07:
+1）在初始阶段：网页通过链接关系构建起Web图，每个页面设置相同的PageRank值，通过若干轮的计算，会得到每个页面所获得的最终PageRank值。在PageRank提出之前，已经有研究者提出利用网页的入链数量来进行链接分析计算，这种入链方法假设一个网页的入链越多，则该网页越重要。利用以上两个假设，PageRank算法刚开始赋予每个网页相同的重要性得分，通过迭代递归计算来更新每个页面节点的PageRank得分，直到得分稳定为止。当每个页面都获得了更新后的PageRank值，就完成了一轮PageRank计算。2）在一轮中更新页面PageRank得分的计算方法：在一轮更新页面PageRank得分的计算中，每个页面将其当前的PageRank值平均分配到本页面包含的出链上，这样每个链接即获得了相应的权值。
+
+document 08:
+the data (10%)。You will be marked solely based on how well you used the techniques presented in the course on your data. If your data cannot be reasonably explained in 2-dimensions, or it does not have a clear cluster structure, that is fine, as long as you can clearly explain why do you think this is the case by proper use/analysis of PCA, SOM and clustering.。Learn as much as you can about the chosen data set using the methods developed in the module - PCA, Clustering and SOM.。What interesting aspects of the data did you detect based on eigenvector and eigenvalue analysis of the data covariance matrix in case of PCA analysis, or codebook vector analysis in case of clustering/SOM。Data sets。
+
+document 09:
+帝国理工学院（Imperial College London），建立于1907年，是一所主攻理学、工学、医学和商学的世界顶尖公立研究型大学，是英国常春藤联盟罗素大学集团成员，与剑桥大学、牛津大学、伦敦大学学院、伦敦政治经济学院并称为“G5超级精英大学”。帝国理工学院、伦敦国王学院、苏黎世联邦理工学院等世界顶尖名校，开展校际合作交流。2018年7月16日至19日，我校校长陈十一应邀赴英国东英吉利大学，出席荣誉博士学位授予仪式，并先后访问牛津大学、剑桥大学、。会谈结束后，陈十一一行参观了苏黎世联邦理工学院机械工程系实验室并与相关研究人员交流，陈十一还会见了苏黎世联邦理工学院经济管理与技术学院教授、我校“南科大讲堂”嘉宾Didier Sornette教授，双方进行了亲切交流。﻿陈十一校长荣获东英吉利大学荣誉博士学位，并率团访问牛津、剑桥等世界顶尖名校。
+
+document 10:
+物理对姜皓月而言，是一个充满魅力的世界。﻿2018届毕业生姜皓月：沉迷于物理世界的个性女孩。姜皓月对物理的喜爱有点纯粹和“佛系”。基于这样的认识和坚持，姜皓月在外人看来有些枯燥和艰难的物理学习路上，忙碌而自信地一直向前。姜皓月希望，自己一直做一个纯粹的人，保持对世界的善良，正如她最喜欢的话 “世界以痛吻我，我却报之以歌。
